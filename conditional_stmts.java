@@ -13,12 +13,28 @@ public class conditional_stmts {
         // } else {
         //     System.out.println("Not eligible");
         // }
-        System.out.println("Enter any Number");
-        int num = sc.nextInt();
-        if(num % 2==0){
-            System.out.println("Even");
-        }else{
-            System.out.println("Odd");
-        }
+
+
+        // System.out.println("Enter any Number");
+        // int num = sc.nextInt();
+        // if(num % 2==0){
+        //     System.out.println("Even");
+        // }else{
+        //     System.out.println("Odd");
+        // }
+
+        // System.out.println("enter value of a");
+        // int a = sc.nextInt();
+        // System.out.println("enter value of b");
+        // int b = sc.nextInt();
+        // if(a==b){
+        //     System.out.println("Equal");
+        // } else if(a>b){
+        //     System.out.println("a is greater");
+        // } else{
+        //     System.out.println("a is lesser");
+        // }
+        
+
     }
 }
